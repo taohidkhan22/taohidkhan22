@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md Arnob Islam Khan, but you can call me Taohid. I'm currently an undergraduate student pursuing a Bachelor of Science in Computer Science and Engineering (CSE).
 - 👀 I’m interested in exploring various aspects of technology, particularly in web development, and software engineering.
 - 🌱 ’m currently learning and gaining hands-on experience in full-stack web development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 I’m looking to collaborate on projects related to web development, software engineering, or any innovative tech initiatives.
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons to enhance my skills and creativity in programming.
