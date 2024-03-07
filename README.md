@@ -9,4 +9,4 @@
 taohidkhan22/taohidkhan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-You can reach me via email at [taohid130@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/taohid-khan-569636198/].
+You can reach me via email at [taohid130@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/taohid-khan-569636198/] or my website [https://taohidkhan22.github.io/Resume_CDP/]
