@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 You can reach me via email at [taohid130@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/taohid-khan-569636198/] or my website [https://taohidkhan22.github.io/Resume_CDP/]
 --->
 
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://www.webhopers.com/wp-content/uploads/2016/04/Web-Development-Company-in-Panchkula.jpg)
 
 
 
