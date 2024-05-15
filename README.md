@@ -13,7 +13,8 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 --->
 
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif))](https://rishavchanda.io)
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam</h1>
 <h3 align="center"> I am currently learning full-stack web development at a well-known company, gaining hands-on experience with both front-end and back-end technologies.</h3>
