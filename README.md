@@ -11,9 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 You can reach me via email at [taohid130@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/taohid-khan-569636198/] or my website [https://taohidkhan22.github.io/Resume_CDP/]
 --->
-
-[![MasterHead]([https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif](https://manuelvivo.dev/assets/images/2021-02-03-coroutines-and-threads.png))](https://rishavchanda.io)
-
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam</h1>
@@ -45,8 +43,4 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taohidkhan22&" alt="taohidkhan22" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taohidkhan22&show_icons=true&locale=en" alt="taohidkhan22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taohidkhan22&" alt="taohidkhan22" /></p>
 
