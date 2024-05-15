@@ -30,7 +30,7 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
   
 - ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons to enhance my skills and creativity in programming.
   
-- 🎓 I'm currently an undergraduate student (Final year doing my thesis) pursuing a Bachelor of Science in Computer Science and Engineering (CSE).
+- 🎓 I'm currently an undergraduate final year student (actually doing my thesis) pursuing a Bachelor of Science in Computer Science and Engineering (CSE).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
