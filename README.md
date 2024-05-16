@@ -16,7 +16,7 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 
 
-<img src="https://www.umitegrioglu.com/wp-content/uploads/2017/04/github.png" alt="GitHub Banner" style="width:100%; height:100%;">
+<img src="https://www.umitegrioglu.com/wp-content/uploads/2017/04/github.png" alt="GitHub Banner" style="width:100%; height:70%;">
 
 
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam(Taoheed)</h1>
