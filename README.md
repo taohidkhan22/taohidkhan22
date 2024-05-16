@@ -15,6 +15,10 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 
 
+
+<img src="https://www.umitegrioglu.com/wp-content/uploads/2017/04/github.png" alt="GitHub Banner" style="width:100%; height:auto;">
+
+
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam(Taoheed)</h1>
 <h3 align="center"> I am currently learning full-stack web development at a well-known company, gaining hands-on experience with both front-end and back-end technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
