@@ -16,7 +16,7 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 
 
-<img src="https://th.bing.com/th/id/R.d0737cb5406800a5b2b4b1d43b111034?rik=01tcAZf%2bzL4yaw&pid=ImgRaw&r=0" alt="GitHub Banner" style="width:100%; height🛺;">
+<img src="https://th.bing.com/th/id/R.d0737cb5406800a5b2b4b1d43b111034?rik=01tcAZf%2bzL4yaw&pid=ImgRaw&r=0" alt="GitHub Banner" style="width:100%; height:auto;">
 
 
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam(Taoheed)</h1>
