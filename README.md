@@ -39,7 +39,7 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/taohid-khan-569636198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taohid-khan-569636198" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taohid-arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taohid-khan-569636198" height="30" width="40" /></a>
 <a href="https://instagram.com/_taohidkhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taohidkhan_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/taoheed130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taoheed130" height="30" width="40" /></a>
 </p>
