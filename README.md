@@ -1,4 +1,4 @@
-<!---- 👋 Hi, I’m Md Arnob Islam Khan, but you can call me Taohid. I'm currently an undergraduate student pursuing a Bachelor of Science in Computer Science and Engineering (CSE).
+<!---- 👋 Hi, I’m Md Arnob Islam Khan, but you can call me Taohid. I'm a fresh graduate in a Bachelor of Science in Computer Science and Engineering (CSE).
 - 👀 I’m interested in exploring various aspects of technology, particularly in web development, and software engineering.
 - 🌱 ’m currently learning and gaining hands-on experience in full-stack web development.
 - 📫 I’m looking to collaborate on projects related to web development, software engineering, or any innovative tech initiatives.
@@ -21,7 +21,7 @@ You can reach me via email at [taohid130@gmail.com] or connect with me on Linked
 
 
 <h1 align="center">Hi 👋, I'm Md. Arnob Islam(Taoheed)</h1>
-<h3 align="center"> I am currently learning full-stack web development at a well-known company, gaining hands-on experience with both front-end and back-end technologies.</h3>
+<h3 align="center"> I am currently learning JavaScript In-Depth</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taohidkhan22&label=Profile%20views&color=0e75b6&style=flat" alt="taohidkhan22" /> </p>
 
